@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809284548887",
+    "project_id": "chatapp-ca6b8",
+    "storage_bucket": "chatapp-ca6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809284548887:android:64b2abbe34eceeb6555f52",
+        "android_client_info": {
+          "package_name": "com.brocompany.chatApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusMuLS8BmhWEQTp4Ej_HvzWAe1KgOt3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809284548887:android:387e6f5e2dcafdfd555f52",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusMuLS8BmhWEQTp4Ej_HvzWAe1KgOt3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
